@@ -1,1 +1,3 @@
-# Here are your Instructions
+Bu proje yapım aşamasında
+Ekleme yapmakta özgürsün.
+
