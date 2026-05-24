@@ -1,0 +1,26 @@
+export const colors = {
+  background: '#000000',
+  surface: '#1a1a1a',
+  surfaceLight: '#2a2a2a',
+  neonGreen: '#00FF41',
+  neonGreenDark: '#00CC33',
+  neonGlow: 'rgba(0, 255, 65, 0.3)',
+  textPrimary: '#FFFFFF',
+  textSecondary: '#CCCCCC',
+  textTertiary: '#888888',
+  yellow: '#FFD700',
+  success: '#00FF41',
+  warning: '#FFA500',
+  error: '#FF3333',
+  border: '#333333',
+  borderLight: '#444444',
+  shadow: 'rgba(0, 255, 65, 0.5)',
+  easy: '#00FF41',
+  medium: '#FFD700',
+  hard: '#FF3333',
+  gradient: {
+    primary: ['#000000', '#1a1a1a'],
+    card: ['#1a1a1a', '#0a0a0a'],
+    neon: ['#00FF41', '#00CC33'],
+  }
+};
